@@ -1,3 +1,4 @@
+
 import holdings from "../Data/Holdings.json";
 import capital from "../Data/CapitalGains.json";
 
