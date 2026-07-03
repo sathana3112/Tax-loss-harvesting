@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
     "capitalGains": {
         "stcg": {
@@ -11,17 +11,4 @@
         }
     }
 }
-=======
-{
-    "capitalGains": {
-        "stcg": {
-            "profits": 70200.88,
-            "losses": 1548.53
-        },
-        "ltcg": {
-            "profits": 5020,
-            "losses": 3050
-        }
-    }
-}
->>>>>>> f936125291c8cbb014860798ad684134a2593e45
+
